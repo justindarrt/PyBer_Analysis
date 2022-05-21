@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of Project
+The CEO of PyBer wants to analyze ride sharing data across various city types. The CEO would like to visualize this analyze in dataframe summary and line chart of weekly fares.
 
 ### Purpose
 The purpose of this project is to analysis ride share across different city types. Matplotlib and Pandas were the only modules used to perform the visual analysis.
